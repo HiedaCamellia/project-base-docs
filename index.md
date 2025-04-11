@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "Project Base Docs"
-  text: "Project Base 文档站"
-  tagline: My great project tagline
+  name: "Project Base"
+  text: "Godot 游戏开发框架"
+  tagline: 一个轮子集合
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Project Base 是什么？
+      link: /guide/what-is-project-base
     - theme: alt
-      text: API Examples
+      text: 快速开始
       link: /api-examples
 
 features:
